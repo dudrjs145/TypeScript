@@ -12,3 +12,4 @@
 > https://typescript-kr.github.io/pages/interfaces.html
 
 - ### [!기본타입](./src/basic-types.ts)
+- ### [!인터페이스](./src/interfaces.ts)
