@@ -6,4 +6,9 @@
 타입스크립트 컴파일러 실행  
 `$ tsc greeting.ts` ==> `greeting.js`
 
-### [!기본타입](./src/basic-types.ts)
+## TypeScript 핸드북
+
+> 출처
+> https://typescript-kr.github.io/pages/interfaces.html
+
+- ### [!기본타입](./src/basic-types.ts)
